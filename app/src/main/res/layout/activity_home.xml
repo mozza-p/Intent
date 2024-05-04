@@ -13,10 +13,14 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/btnExplicit"
+        android:backgroundTint="@color/white"
+        android:textColor="@color/teal_700"
         android:text="Pindah Activity"/>
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/btnImplicit"
+        android:backgroundTint="@color/purple_200"
+        android:textColor="@color/white"
         android:text="Dial Phone"/>
     </LinearLayout>
